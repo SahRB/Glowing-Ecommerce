@@ -1,7 +1,7 @@
 <h1 align="center">✨GLOWING✨</h1>
 <div align="center">
-Este é um projeto focado no estudo de front-end, utilizando tecnicas de mobile-first, CSS, HTML e Javascript
-
+Este é um projeto focado no estudo de front-end, utilizando a tecnica de mobile-first e as tecnologias CSS, HTML e Javascript <br>
+<a href="https://sahrb.github.io/Glowing-Ecommerce/">Veja o site</a>
 </div>
 <br/>
 <h1 align="center">Projeto Responsivo</h1>
